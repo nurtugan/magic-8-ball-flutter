@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Ask Me Anything'),
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.blue.shade900,
         ),
         body: AskMeAnything(),
         backgroundColor: Colors.blue.shade500,
